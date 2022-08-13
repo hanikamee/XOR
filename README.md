@@ -1,2 +1,2 @@
 # XOR
-This program encrypts a file using XOR and a key
+This program encrypts and decrypts a file using XOR and a key
